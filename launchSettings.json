@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "webapi": "StartDebugging",
+        "database": "StartWithoutDebugging",
+        "console": "DoNotStart"
+      }
+    },
+    "Docker Compose (Console)": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "database": "StartWithoutDebugging",
+        "webapi": "DoNotStart",
+        "console": "StartDebugging"
+      }
+    }
+  }
+}

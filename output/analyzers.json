@@ -1,0 +1,977 @@
+{
+  "users_summary": [
+    {
+      "user_id": "008e54b5-b0db-4f17-9cbd-1eaa305d4611",
+      "total_income": 7711468.82,
+      "total_expense": 2216844.97
+    },
+    {
+      "user_id": "02e167e4-9ac0-486b-ba09-ee457afb3e4d",
+      "total_income": 7487802.01,
+      "total_expense": 2254724.31
+    },
+    {
+      "user_id": "02e78246-2f45-4521-a836-7fb8018a76a5",
+      "total_income": 7505520.06,
+      "total_expense": 2206033.79
+    },
+    {
+      "user_id": "03a648b5-85ed-40e7-9510-a5b8d376ffff",
+      "total_income": 7409332.08,
+      "total_expense": 2195262.89
+    },
+    {
+      "user_id": "054bcef8-3185-4b1e-a918-1690bb58e8a1",
+      "total_income": 7429968.54,
+      "total_expense": 2161212.87
+    },
+    {
+      "user_id": "06a07286-3424-474c-a8e0-7fe9d5ba9d4c",
+      "total_income": 7272587.78,
+      "total_expense": 2149972.68
+    },
+    {
+      "user_id": "0837d5a0-122a-4011-b993-1f7c573c6b51",
+      "total_income": 7552265.50,
+      "total_expense": 2144391.11
+    },
+    {
+      "user_id": "089c6329-5553-4f13-9283-baf4998cac88",
+      "total_income": 7392392.91,
+      "total_expense": 2186518.65
+    },
+    {
+      "user_id": "08b42f74-98bd-4a95-bd91-728c344e9207",
+      "total_income": 7413585.64,
+      "total_expense": 2170555.50
+    },
+    {
+      "user_id": "0988b85d-85ee-46a1-a516-bfd5598f3557",
+      "total_income": 7672889.15,
+      "total_expense": 2150565.69
+    },
+    {
+      "user_id": "0a328cdd-968d-4bc8-be6a-2892479d6d67",
+      "total_income": 7185588.03,
+      "total_expense": 2127789.27
+    },
+    {
+      "user_id": "0ca6f878-538e-4849-a1a1-5de6f7910772",
+      "total_income": 7452326.83,
+      "total_expense": 2173374.24
+    },
+    {
+      "user_id": "102e6bbf-35c5-41e0-927e-89decfd376c2",
+      "total_income": 7550096.49,
+      "total_expense": 2174645.56
+    },
+    {
+      "user_id": "107dff63-241e-4032-a878-86c7f8009dc7",
+      "total_income": 7434175.79,
+      "total_expense": 2198231.20
+    },
+    {
+      "user_id": "11595191-6191-4218-8fe3-edd1e7d1a228",
+      "total_income": 7294786.89,
+      "total_expense": 2193186.64
+    },
+    {
+      "user_id": "124c217c-4c17-453b-9da4-af67e8b3b2b2",
+      "total_income": 7494085.50,
+      "total_expense": 2209992.77
+    },
+    {
+      "user_id": "136e4bde-dec4-43e4-aee9-ce3c6ac479ff",
+      "total_income": 7545171.70,
+      "total_expense": 2197184.43
+    },
+    {
+      "user_id": "1489776a-9e0b-4dbd-a772-c4246022a759",
+      "total_income": 7160240.68,
+      "total_expense": 2144198.34
+    },
+    {
+      "user_id": "1597f6e8-e43b-4ec9-bfe2-42188574cb50",
+      "total_income": 7224145.26,
+      "total_expense": 2131269.30
+    },
+    {
+      "user_id": "15cc1363-cebe-4a1b-85ad-ebb481eb0587",
+      "total_income": 7219616.05,
+      "total_expense": 2131230.98
+    },
+    {
+      "user_id": "174997c6-e475-4c2b-ac70-1fefc008bd34",
+      "total_income": 7317162.07,
+      "total_expense": 2175367.11
+    },
+    {
+      "user_id": "174b6a31-ce43-4d3f-a45e-c171fb14bddc",
+      "total_income": 7118928.09,
+      "total_expense": 2155733.08
+    },
+    {
+      "user_id": "18cb2dbd-97be-4f5d-92b1-979e6f14c7a1",
+      "total_income": 7498872.23,
+      "total_expense": 2121711.96
+    },
+    {
+      "user_id": "1adf17d9-fa75-4a8e-b82b-8e30ff2ab89b",
+      "total_income": 7485003.58,
+      "total_expense": 2248386.65
+    },
+    {
+      "user_id": "1c9e8acd-ed67-44c2-909c-d2474cfe30cd",
+      "total_income": 7250862.65,
+      "total_expense": 2222981.71
+    },
+    {
+      "user_id": "1ce1ff56-eed9-422c-82d2-bcd75c45292f",
+      "total_income": 7354310.64,
+      "total_expense": 2210248.18
+    },
+    {
+      "user_id": "1f0e4314-4084-4e4f-b732-6c2297ff6dd8",
+      "total_income": 7628184.31,
+      "total_expense": 2213861.27
+    },
+    {
+      "user_id": "22e25ac8-6764-4ce7-86cb-407add500361",
+      "total_income": 7566721.33,
+      "total_expense": 2168017.98
+    },
+    {
+      "user_id": "22e29568-7337-4f6d-be32-99904a79dde2",
+      "total_income": 7488521.21,
+      "total_expense": 2132396.63
+    },
+    {
+      "user_id": "230bcabb-ccc3-4fdf-9bd3-0f9f6962f562",
+      "total_income": 7445574.96,
+      "total_expense": 2202702.14
+    },
+    {
+      "user_id": "242976e4-ad70-4243-8c56-4bd4ec9994c3",
+      "total_income": 7457189.84,
+      "total_expense": 2180552.35
+    },
+    {
+      "user_id": "258ea186-43bb-49af-b802-cf8a29928548",
+      "total_income": 7251502.50,
+      "total_expense": 2255748.64
+    },
+    {
+      "user_id": "272eced1-aabb-457f-aa51-41fe2fd23958",
+      "total_income": 7301634.89,
+      "total_expense": 2216522.70
+    },
+    {
+      "user_id": "27534b0a-014e-4202-9055-1ee5de112ac3",
+      "total_income": 7480676.67,
+      "total_expense": 2229331.99
+    },
+    {
+      "user_id": "290a324f-e6bf-4fd8-b444-4cd541e1da8a",
+      "total_income": 7328238.08,
+      "total_expense": 2107654.06
+    },
+    {
+      "user_id": "299a3835-f368-425b-846b-4aef15c52644",
+      "total_income": 7330560.55,
+      "total_expense": 2192733.93
+    },
+    {
+      "user_id": "2a5d801f-85e0-4cd8-8092-387eac345983",
+      "total_income": 7525133.48,
+      "total_expense": 2168083.35
+    },
+    {
+      "user_id": "2d32b740-b5ca-4102-ae8c-94bf640ad713",
+      "total_income": 7530066.21,
+      "total_expense": 2151608.67
+    },
+    {
+      "user_id": "2e0e8e79-53f0-4a24-8d95-006674c776e6",
+      "total_income": 7247898.55,
+      "total_expense": 2164248.71
+    },
+    {
+      "user_id": "314ccd31-e452-4a19-932a-678fbd7312e7",
+      "total_income": 7486697.52,
+      "total_expense": 2195949.92
+    },
+    {
+      "user_id": "3152689f-7dc8-44f7-a850-f6dc05d58790",
+      "total_income": 7557048.32,
+      "total_expense": 2191031.42
+    },
+    {
+      "user_id": "36a32b4b-50e8-48f5-9f80-d160dd8c9499",
+      "total_income": 7473721.80,
+      "total_expense": 2207993.71
+    },
+    {
+      "user_id": "3829c651-9c32-4d62-896f-3f8dd12ef318",
+      "total_income": 7411217.84,
+      "total_expense": 2200384.15
+    },
+    {
+      "user_id": "39beaae1-35be-4505-ab12-d1f29be0321c",
+      "total_income": 7742478.37,
+      "total_expense": 2184939.19
+    },
+    {
+      "user_id": "39f627d2-d9fc-4edb-971c-c132bc96ab2b",
+      "total_income": 7414233.84,
+      "total_expense": 2129513.51
+    },
+    {
+      "user_id": "3c0bf9d9-4242-48cd-81b0-120eef73f53c",
+      "total_income": 7174040.40,
+      "total_expense": 2138208.73
+    },
+    {
+      "user_id": "3d811d49-cd20-48fe-b13c-639b1ba5731b",
+      "total_income": 7364316.61,
+      "total_expense": 2222491.85
+    },
+    {
+      "user_id": "3f16afc8-4b55-40f2-a2d0-50707e29fa62",
+      "total_income": 7434983.94,
+      "total_expense": 2171466.48
+    },
+    {
+      "user_id": "40cfeeac-de5a-4cf6-b31d-266d5677cb01",
+      "total_income": 7454789.74,
+      "total_expense": 2196584.45
+    },
+    {
+      "user_id": "42663b3e-8bed-40bb-a30c-19456a1a697d",
+      "total_income": 7385071.69,
+      "total_expense": 2206396.54
+    },
+    {
+      "user_id": "429c092e-4561-4130-992a-3863bbb90c1a",
+      "total_income": 7413675.12,
+      "total_expense": 2218575.09
+    },
+    {
+      "user_id": "459212a6-882f-45b2-b26e-5de7916dde7c",
+      "total_income": 7234210.35,
+      "total_expense": 2204749.70
+    },
+    {
+      "user_id": "4a11c8a2-2f79-46a3-bdc7-27ae58179623",
+      "total_income": 7187585.34,
+      "total_expense": 2175742.83
+    },
+    {
+      "user_id": "4b341b74-3d1a-4d80-8ac3-e5447beed7ed",
+      "total_income": 7487888.98,
+      "total_expense": 2178562.51
+    },
+    {
+      "user_id": "4d570f09-41c5-4263-b69d-ccee4af44742",
+      "total_income": 7282421.91,
+      "total_expense": 2176584.27
+    },
+    {
+      "user_id": "4de69862-7042-4e0a-b356-c140b0214389",
+      "total_income": 7460819.00,
+      "total_expense": 2217129.67
+    },
+    {
+      "user_id": "4efd83dc-a3fd-40a3-aa36-818225aa8e77",
+      "total_income": 7553111.52,
+      "total_expense": 2246529.98
+    },
+    {
+      "user_id": "5156fc51-d36c-4c67-a1a0-dff9939052d8",
+      "total_income": 7468701.52,
+      "total_expense": 2275043.80
+    },
+    {
+      "user_id": "5235f218-107e-47da-a505-0d9d877a3163",
+      "total_income": 7480277.06,
+      "total_expense": 2250549.08
+    },
+    {
+      "user_id": "528eb769-e4c4-477d-87be-21eb199d1544",
+      "total_income": 7545185.79,
+      "total_expense": 2213866.25
+    },
+    {
+      "user_id": "54c518ec-fbba-45ce-a40b-921959f00ed5",
+      "total_income": 7603277.85,
+      "total_expense": 2204207.84
+    },
+    {
+      "user_id": "5743212a-15d5-44d6-a0fe-773f2bbdbf74",
+      "total_income": 7265265.94,
+      "total_expense": 2154225.38
+    },
+    {
+      "user_id": "587c8f3d-b23d-4f1a-94f8-ae4337ff4bbc",
+      "total_income": 7338817.87,
+      "total_expense": 2187717.60
+    },
+    {
+      "user_id": "59ea7ee4-ccee-4e19-9cac-1941359ccd2e",
+      "total_income": 7331102.35,
+      "total_expense": 2219101.37
+    },
+    {
+      "user_id": "5b7d2d27-2925-4fcd-9b94-c8da02d36b60",
+      "total_income": 7542710.05,
+      "total_expense": 2177587.62
+    },
+    {
+      "user_id": "5bf70ad1-37f5-4c20-b1f4-728381db7fbf",
+      "total_income": 7437210.76,
+      "total_expense": 2177700.98
+    },
+    {
+      "user_id": "5cd1074f-32cb-44d3-9aee-23aaa2504e8e",
+      "total_income": 7455034.62,
+      "total_expense": 2106343.54
+    },
+    {
+      "user_id": "5d636995-7bad-4930-89da-4fde92ee3536",
+      "total_income": 7380345.69,
+      "total_expense": 2163602.36
+    },
+    {
+      "user_id": "5db63d3e-bcdc-4ab2-afdf-467db7573799",
+      "total_income": 7395693.73,
+      "total_expense": 2189993.81
+    },
+    {
+      "user_id": "5e3e3aa6-d0ce-4eb0-b8eb-cf36920cabac",
+      "total_income": 7376620.30,
+      "total_expense": 2183881.35
+    },
+    {
+      "user_id": "5e653d66-6317-4aeb-aa2c-f3ba23316d62",
+      "total_income": 7364013.60,
+      "total_expense": 2155554.17
+    },
+    {
+      "user_id": "5eb938ba-38c0-424c-b415-59c61eb7ef04",
+      "total_income": 7391857.62,
+      "total_expense": 2130198.43
+    },
+    {
+      "user_id": "5f95c790-3847-4ad7-93df-21fb389090d6",
+      "total_income": 7442538.43,
+      "total_expense": 2188984.37
+    },
+    {
+      "user_id": "5fd9b2d2-4166-425a-a313-79635490ad51",
+      "total_income": 7649973.27,
+      "total_expense": 2214703.79
+    },
+    {
+      "user_id": "6080fdf0-c43e-47ad-9344-24666a39aa41",
+      "total_income": 7663972.24,
+      "total_expense": 2197087.20
+    },
+    {
+      "user_id": "60a4e722-aeaa-4399-9b26-02220b0b5eff",
+      "total_income": 7504729.60,
+      "total_expense": 2147671.93
+    },
+    {
+      "user_id": "61a410ef-3a69-4f1d-b336-3d9f13401c78",
+      "total_income": 7194747.20,
+      "total_expense": 2205281.57
+    },
+    {
+      "user_id": "63c51499-97f4-4e34-a196-2847747d5170",
+      "total_income": 7646472.73,
+      "total_expense": 2150883.84
+    },
+    {
+      "user_id": "6413df12-d2b2-41d6-b245-5863e51a1f3d",
+      "total_income": 7512500.54,
+      "total_expense": 2246882.32
+    },
+    {
+      "user_id": "65cf0056-c9cd-4edc-aa59-585f66b75471",
+      "total_income": 7414975.31,
+      "total_expense": 2170026.16
+    },
+    {
+      "user_id": "660efbf1-fce7-4059-b04c-7b1740388683",
+      "total_income": 7430473.18,
+      "total_expense": 2186436.58
+    },
+    {
+      "user_id": "67218095-e51e-45bc-9985-c055823b7d4d",
+      "total_income": 7545002.60,
+      "total_expense": 2172567.42
+    },
+    {
+      "user_id": "6d94839f-5e05-41bf-8846-2ae675dc28b4",
+      "total_income": 7326804.18,
+      "total_expense": 2167554.99
+    },
+    {
+      "user_id": "6da369f3-be04-4081-98f9-080ec35ba408",
+      "total_income": 7082338.46,
+      "total_expense": 2200742.18
+    },
+    {
+      "user_id": "6e42c0c9-641a-4390-bb24-a5f952445f6d",
+      "total_income": 7382608.66,
+      "total_expense": 2141071.57
+    },
+    {
+      "user_id": "6f19dc7e-9a69-4137-9bdb-ceddd9f0b6aa",
+      "total_income": 7555722.83,
+      "total_expense": 2202341.12
+    },
+    {
+      "user_id": "705cde9c-dd71-45d4-9fbb-b1e67c9f21be",
+      "total_income": 7365632.24,
+      "total_expense": 2178536.38
+    },
+    {
+      "user_id": "719c5a70-765a-4dbd-905a-5cda058848ca",
+      "total_income": 7288028.01,
+      "total_expense": 2203948.52
+    },
+    {
+      "user_id": "71b12cb8-a4af-47c8-8f3e-d9bf965f3e86",
+      "total_income": 7644475.24,
+      "total_expense": 2133807.45
+    },
+    {
+      "user_id": "731d5468-c3cf-49f5-98ae-f5b1b91508a9",
+      "total_income": 7513748.81,
+      "total_expense": 2163099.42
+    },
+    {
+      "user_id": "7380ee41-2f5c-4b52-af53-c5139c3778b7",
+      "total_income": 7344316.08,
+      "total_expense": 2220041.10
+    },
+    {
+      "user_id": "75f4d1f4-b74f-4284-87c5-7966def253f9",
+      "total_income": 7617094.61,
+      "total_expense": 2200680.15
+    },
+    {
+      "user_id": "76b04049-f146-47a5-a8f2-fc898cf1d153",
+      "total_income": 7424962.32,
+      "total_expense": 2154668.47
+    },
+    {
+      "user_id": "7780ce3b-4216-47c5-8ac9-62b79a35aa36",
+      "total_income": 7318870.37,
+      "total_expense": 2254551.34
+    },
+    {
+      "user_id": "786e3b59-39d5-4b06-9ec2-f62d94f6d3d0",
+      "total_income": 7453593.05,
+      "total_expense": 2229877.71
+    },
+    {
+      "user_id": "7bcd1571-bbbc-438a-a638-2703552e4371",
+      "total_income": 7541649.59,
+      "total_expense": 2159338.26
+    },
+    {
+      "user_id": "7c77b039-c96a-433a-86d3-59a139a5ce48",
+      "total_income": 7369978.95,
+      "total_expense": 2199023.07
+    },
+    {
+      "user_id": "7d6e3331-def0-4b94-a897-4420ae084b7b",
+      "total_income": 7307354.37,
+      "total_expense": 2151216.86
+    },
+    {
+      "user_id": "7f0f596a-57bb-4a52-8030-e697f4571ee8",
+      "total_income": 7560903.66,
+      "total_expense": 2240433.17
+    },
+    {
+      "user_id": "7f722f5a-4d3c-4313-abff-0e8abb838b76",
+      "total_income": 7568264.48,
+      "total_expense": 2230712.39
+    },
+    {
+      "user_id": "7f9ea105-4a64-429a-b674-ee03b720fff6",
+      "total_income": 7433244.76,
+      "total_expense": 2264457.43
+    },
+    {
+      "user_id": "806fd8c9-6d28-47cb-a6e9-6abd19b8c4c7",
+      "total_income": 7226209.55,
+      "total_expense": 2139770.68
+    },
+    {
+      "user_id": "815a9b58-a200-436a-953f-01c0e6c98926",
+      "total_income": 7500563.42,
+      "total_expense": 2162149.30
+    },
+    {
+      "user_id": "8168a3b0-7c79-4b61-924d-cad6fe02212b",
+      "total_income": 7430938.23,
+      "total_expense": 2148679.57
+    },
+    {
+      "user_id": "817ab6d0-d551-45cc-b35b-937fedb5c90c",
+      "total_income": 7665678.50,
+      "total_expense": 2219638.86
+    },
+    {
+      "user_id": "81bd9248-4af4-4754-b1ba-bfb59c4bb678",
+      "total_income": 7487148.27,
+      "total_expense": 2186864.00
+    },
+    {
+      "user_id": "8302f432-9848-4ddf-b310-2df28d978e9c",
+      "total_income": 7396790.96,
+      "total_expense": 2171924.36
+    },
+    {
+      "user_id": "8316f355-33ad-497e-867e-35ff01696659",
+      "total_income": 7220300.47,
+      "total_expense": 2119250.03
+    },
+    {
+      "user_id": "85b756d7-17a3-4e4f-9fe3-2de14e97dbe7",
+      "total_income": 7178533.94,
+      "total_expense": 2196318.37
+    },
+    {
+      "user_id": "8ab41257-bea2-4349-9af5-ef7d05aebe4b",
+      "total_income": 7505030.84,
+      "total_expense": 2169617.74
+    },
+    {
+      "user_id": "8c1d8846-f7fe-499a-9b65-ad5ace2f06b6",
+      "total_income": 7437491.81,
+      "total_expense": 2163357.76
+    },
+    {
+      "user_id": "8e25b0f9-cd36-4e2e-8f61-5c0372c73224",
+      "total_income": 7395927.92,
+      "total_expense": 2130222.20
+    },
+    {
+      "user_id": "91bd4419-b97d-4f97-93d1-9d895dd02e9b",
+      "total_income": 7329663.51,
+      "total_expense": 2214762.12
+    },
+    {
+      "user_id": "93b06adf-61c4-469a-911a-25814a9dd933",
+      "total_income": 7539066.60,
+      "total_expense": 2184170.62
+    },
+    {
+      "user_id": "93c1ecc1-2636-4391-a919-2fd43871cb55",
+      "total_income": 7159958.40,
+      "total_expense": 2139212.92
+    },
+    {
+      "user_id": "95282433-3843-4fba-9f54-5097800a247e",
+      "total_income": 7399121.76,
+      "total_expense": 2172209.93
+    },
+    {
+      "user_id": "97f6b669-dfe1-48a1-8c62-4b62d4aa4c98",
+      "total_income": 7125712.18,
+      "total_expense": 2208511.31
+    },
+    {
+      "user_id": "98b29020-e3cf-4cc2-b60b-a52dc6cc0c5b",
+      "total_income": 7514571.13,
+      "total_expense": 2217687.07
+    },
+    {
+      "user_id": "993e1d29-dae9-4303-9415-a008f788ef6a",
+      "total_income": 7603819.40,
+      "total_expense": 2154189.20
+    },
+    {
+      "user_id": "9d510446-4701-4102-8ec5-1d0e2c1a65f2",
+      "total_income": 7353105.86,
+      "total_expense": 2263152.92
+    },
+    {
+      "user_id": "9e00b9ec-1bc0-4767-867d-008a8512b3cd",
+      "total_income": 7410240.23,
+      "total_expense": 2219741.56
+    },
+    {
+      "user_id": "9f25ed03-5b0a-4ca1-9bfd-c4c4d03cb60a",
+      "total_income": 7463778.56,
+      "total_expense": 2258630.20
+    },
+    {
+      "user_id": "9fc1feea-ff52-4a1d-8233-d4ab6247cd05",
+      "total_income": 7445979.12,
+      "total_expense": 2168387.07
+    },
+    {
+      "user_id": "9fc72c04-1a14-49e8-8b7c-57a8c25e3d4c",
+      "total_income": 7559850.40,
+      "total_expense": 2233022.89
+    },
+    {
+      "user_id": "a1a8a2d5-34f7-4552-b79b-0dc445414e72",
+      "total_income": 7232942.79,
+      "total_expense": 2206768.88
+    },
+    {
+      "user_id": "a4f6637a-877f-4ab8-938c-54a082366dc1",
+      "total_income": 7395420.31,
+      "total_expense": 2204362.74
+    },
+    {
+      "user_id": "a5e856df-727e-441c-9986-956144c61da8",
+      "total_income": 7349510.26,
+      "total_expense": 2233383.18
+    },
+    {
+      "user_id": "a873ec68-76e1-43ff-a5d0-cf994aa24c99",
+      "total_income": 7576210.68,
+      "total_expense": 2178307.21
+    },
+    {
+      "user_id": "a89bc491-db16-4cf4-ba20-7daa9aadc073",
+      "total_income": 7456447.39,
+      "total_expense": 2144327.39
+    },
+    {
+      "user_id": "a8ac03a2-3157-476f-ac7c-b2f0b1c64b79",
+      "total_income": 7502371.25,
+      "total_expense": 2139505.02
+    },
+    {
+      "user_id": "ab86ebf8-b9de-429f-84f6-3ab283ce2b90",
+      "total_income": 7566977.49,
+      "total_expense": 2160172.98
+    },
+    {
+      "user_id": "af9a13b7-9542-461e-9be5-c61289b04eb8",
+      "total_income": 7546045.74,
+      "total_expense": 2241189.33
+    },
+    {
+      "user_id": "b1444762-d02b-4978-8dfc-7dd0a49311c5",
+      "total_income": 7292710.96,
+      "total_expense": 2184839.95
+    },
+    {
+      "user_id": "b3170c9a-0031-490a-b675-611d2c5ffb76",
+      "total_income": 7800196.28,
+      "total_expense": 2226543.37
+    },
+    {
+      "user_id": "b51659e9-1cac-4601-933f-2710e85d28fe",
+      "total_income": 7595519.19,
+      "total_expense": 2084856.16
+    },
+    {
+      "user_id": "b5768aba-3750-4490-827c-261b385ee1e7",
+      "total_income": 7527990.78,
+      "total_expense": 2108606.53
+    },
+    {
+      "user_id": "b65b125d-31c1-456f-9238-d768e82e622d",
+      "total_income": 7525928.13,
+      "total_expense": 2198487.44
+    },
+    {
+      "user_id": "b750fec2-f313-40e0-8596-69fdd408cdbe",
+      "total_income": 7686960.23,
+      "total_expense": 2192150.81
+    },
+    {
+      "user_id": "b76ff3a5-dc61-4697-a30d-84198da57ca0",
+      "total_income": 7330184.58,
+      "total_expense": 2134759.17
+    },
+    {
+      "user_id": "b9e40c54-7245-4317-bdef-ee267cd2463a",
+      "total_income": 7348372.42,
+      "total_expense": 2176917.20
+    },
+    {
+      "user_id": "bcc19e6a-3ede-4033-aa70-f1a3f626e7ea",
+      "total_income": 7549282.94,
+      "total_expense": 2144889.31
+    },
+    {
+      "user_id": "bd6f7c61-cd20-4750-9d8c-e13666cc478e",
+      "total_income": 7357793.90,
+      "total_expense": 2242482.77
+    },
+    {
+      "user_id": "bd8a540d-d1da-4269-8038-2de9955d158b",
+      "total_income": 7309901.05,
+      "total_expense": 2180749.16
+    },
+    {
+      "user_id": "be1180cc-115e-4e4e-bbae-f6c4bba90ebe",
+      "total_income": 7539113.35,
+      "total_expense": 2211944.87
+    },
+    {
+      "user_id": "bf63716d-482f-4201-acb3-56971c9f706b",
+      "total_income": 7487602.33,
+      "total_expense": 2258112.61
+    },
+    {
+      "user_id": "c0560e36-342c-44eb-9222-62b90e932f56",
+      "total_income": 7316955.86,
+      "total_expense": 2129004.07
+    },
+    {
+      "user_id": "c32e5fc0-50b2-4b61-915e-4a08a549916d",
+      "total_income": 7576733.07,
+      "total_expense": 2175115.26
+    },
+    {
+      "user_id": "c6532b6f-3355-4afd-8914-5c5721275308",
+      "total_income": 7503472.37,
+      "total_expense": 2178163.01
+    },
+    {
+      "user_id": "c6639f60-83bc-45e7-bbc9-fe34bfb10d39",
+      "total_income": 7400829.26,
+      "total_expense": 2203586.67
+    },
+    {
+      "user_id": "c7792938-ebe2-4baf-a2ae-fe7e42628b83",
+      "total_income": 7353349.33,
+      "total_expense": 2254937.06
+    },
+    {
+      "user_id": "c82d8bdd-6663-4cd9-a099-d9808e6f7878",
+      "total_income": 7536243.27,
+      "total_expense": 2163450.35
+    },
+    {
+      "user_id": "c86f997d-7096-4add-8806-a05aea1ba805",
+      "total_income": 7418551.01,
+      "total_expense": 2230307.35
+    },
+    {
+      "user_id": "c8815845-fba2-4551-a2da-1dad5edd5849",
+      "total_income": 7244590.79,
+      "total_expense": 2266234.91
+    },
+    {
+      "user_id": "cb1f5003-36f6-4e04-94b1-9f4d019d645a",
+      "total_income": 7458332.17,
+      "total_expense": 2184706.08
+    },
+    {
+      "user_id": "cbda1884-7af6-40b5-aec4-06b4aeb132a9",
+      "total_income": 7444502.96,
+      "total_expense": 2175000.21
+    },
+    {
+      "user_id": "cc11f852-d3a7-4341-83c9-3206bb531e33",
+      "total_income": 7501017.64,
+      "total_expense": 2130486.52
+    },
+    {
+      "user_id": "cc59aa57-9438-47f3-a8bf-1b0d5151680c",
+      "total_income": 7286742.88,
+      "total_expense": 2095714.59
+    },
+    {
+      "user_id": "cce97bcb-089a-4c8d-ab9f-9c43989634d7",
+      "total_income": 7504462.45,
+      "total_expense": 2157059.64
+    },
+    {
+      "user_id": "cef6b322-a32e-4f63-a0c8-f3c103e90fbf",
+      "total_income": 7210826.09,
+      "total_expense": 2107610.25
+    },
+    {
+      "user_id": "d01c01d0-3f4d-407b-868c-965925cd40b0",
+      "total_income": 7156243.27,
+      "total_expense": 2156985.42
+    },
+    {
+      "user_id": "d166ed06-9c04-4f58-b3f4-3c3163d68a42",
+      "total_income": 7537796.84,
+      "total_expense": 2230380.83
+    },
+    {
+      "user_id": "d1a92acf-7049-4e21-8ce0-a81dac9adb2e",
+      "total_income": 7328502.66,
+      "total_expense": 2108657.05
+    },
+    {
+      "user_id": "d25d5741-46b5-45eb-b009-7a9280f6f0d9",
+      "total_income": 7253772.27,
+      "total_expense": 2212736.66
+    },
+    {
+      "user_id": "d480bbb2-1ff4-4353-9b15-5c1ced073840",
+      "total_income": 7570875.00,
+      "total_expense": 2224914.26
+    },
+    {
+      "user_id": "d488449d-9abd-4904-bc49-e035c0cfa66e",
+      "total_income": 7547427.38,
+      "total_expense": 2138320.69
+    },
+    {
+      "user_id": "d5fb263e-73ff-46fc-a82d-578723c3d0ef",
+      "total_income": 7255308.88,
+      "total_expense": 2236994.98
+    },
+    {
+      "user_id": "d8798738-5d6b-4ed2-8c91-0b25ea8d3af3",
+      "total_income": 7359792.04,
+      "total_expense": 2215435.47
+    },
+    {
+      "user_id": "dc1b05db-47ff-48a7-a2b1-48a234c29a34",
+      "total_income": 7541743.79,
+      "total_expense": 2262496.26
+    },
+    {
+      "user_id": "dd908e5c-b383-4d24-ad84-717c27f03f78",
+      "total_income": 7263408.33,
+      "total_expense": 2139355.82
+    },
+    {
+      "user_id": "e30be6cf-6921-4a83-b720-27a66b25128b",
+      "total_income": 7406217.32,
+      "total_expense": 2197170.97
+    },
+    {
+      "user_id": "e3e8d9e4-1ac1-4f4d-8ccc-621eebbb374f",
+      "total_income": 7179110.53,
+      "total_expense": 2248467.47
+    },
+    {
+      "user_id": "e3eac2df-3a77-4965-ad40-be161008b6a0",
+      "total_income": 7423797.92,
+      "total_expense": 2228749.72
+    },
+    {
+      "user_id": "e442c18f-b848-4567-872f-83840b38ca83",
+      "total_income": 7394173.68,
+      "total_expense": 2140240.87
+    },
+    {
+      "user_id": "e67fbe83-330d-4690-9876-c3d7dcdabb08",
+      "total_income": 7463262.78,
+      "total_expense": 2118194.73
+    },
+    {
+      "user_id": "e6ae2dfe-8b06-41c0-9258-3dc6e128df4f",
+      "total_income": 7430250.44,
+      "total_expense": 2233775.60
+    },
+    {
+      "user_id": "e7180eaf-6a20-48c0-b87e-fc1f47401766",
+      "total_income": 7300159.17,
+      "total_expense": 2186194.32
+    },
+    {
+      "user_id": "e7d4509e-13fc-4bfd-bdf8-5ce7b8bc9b9a",
+      "total_income": 7697829.67,
+      "total_expense": 2203463.86
+    },
+    {
+      "user_id": "e7eef8e4-824d-42e6-8388-e2aee3640c93",
+      "total_income": 7277622.85,
+      "total_expense": 2185986.59
+    },
+    {
+      "user_id": "e8984f03-ac6d-4159-adc4-00838f2d08ee",
+      "total_income": 7414311.18,
+      "total_expense": 2185076.34
+    },
+    {
+      "user_id": "e8d11eab-061b-44e1-b899-2f858e6cc6e6",
+      "total_income": 7407718.22,
+      "total_expense": 2255590.97
+    },
+    {
+      "user_id": "e8f080f8-4812-4a7a-875e-92aa00f67830",
+      "total_income": 7393723.86,
+      "total_expense": 2170246.36
+    },
+    {
+      "user_id": "e97b2259-31bc-4dc3-a9a0-89c76310de34",
+      "total_income": 7503255.82,
+      "total_expense": 2144198.20
+    },
+    {
+      "user_id": "e9fed4ea-3e4d-4449-a3f2-d5e47a9ce6c5",
+      "total_income": 7210088.76,
+      "total_expense": 2190150.34
+    },
+    {
+      "user_id": "ea3c210c-99d5-4967-ab10-8e2ccc0c7122",
+      "total_income": 7539252.84,
+      "total_expense": 2129019.82
+    },
+    {
+      "user_id": "edc137ba-6321-43dc-90d9-3054820c1690",
+      "total_income": 7214833.27,
+      "total_expense": 2186504.96
+    },
+    {
+      "user_id": "efb5c65b-5f6a-4c18-bd3f-e31ab1d5b5c8",
+      "total_income": 7445338.90,
+      "total_expense": 2157636.80
+    },
+    {
+      "user_id": "efda60d9-0254-45fb-a3be-d62a94136d29",
+      "total_income": 7336607.26,
+      "total_expense": 2181660.38
+    },
+    {
+      "user_id": "f680af7d-26f2-46a3-b083-837d3140527d",
+      "total_income": 7362495.08,
+      "total_expense": 2166794.90
+    },
+    {
+      "user_id": "f70dfb40-3442-4990-b0ab-7440d506aa8a",
+      "total_income": 7571153.23,
+      "total_expense": 2218441.65
+    },
+    {
+      "user_id": "fd72f592-54f7-4ed1-b35a-1da78fafb454",
+      "total_income": 7538822.99,
+      "total_expense": 2170302.57
+    },
+    {
+      "user_id": "ff74e495-71bc-40c4-8af2-16a33ae7131d",
+      "total_income": 7536369.57,
+      "total_expense": 2197339.87
+    }
+  ],
+  "top_categories": [
+    {
+      "category": "Entertainment",
+      "transactions_count": 333604
+    },
+    {
+      "category": "Salary",
+      "transactions_count": 333419
+    },
+    {
+      "category": "Utilities",
+      "transactions_count": 333349
+    }
+  ],
+  "highest_spender": {
+    "user_id": "b51659e9-1cac-4601-933f-2710e85d28fe",
+    "total_expense": -2084856.16
+  }
+}
